@@ -1,0 +1,10 @@
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\GlowSuppressor.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\GlowSuppressor.pdb
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\Assembly-CSharp.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\UnityEngine.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\Mono.Cecil.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\TDx.TDxInput.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\bin\Debug\Mono.Security.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\obj\Debug\GlowSuppressor.dll
+C:\Users\Michele\Documents\KSP Modding\GlowSuppressor\GlowSuppressor\obj\Debug\GlowSuppressor.pdb

@@ -11,8 +11,11 @@ namespace GlowSuppressor
     {
         void Update()
         {
-            if (FlightGlobals.ActiveVessel != null)
-                SuppressGlow(FlightGlobals.ActiveVessel.rootPart);
+            foreach (Vessel v in FlightGlobals.Vessels)
+            {
+                if (v != null)
+                    SuppressGlow(FlightGlobals.ActiveVessel.rootPart);
+            }
         }
 
         private static void SuppressGlow(Part part)
